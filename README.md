@@ -1,16 +1,9 @@
-# tugashttp
+# Maya Wulandari - 123210050
 
-A new Flutter project.
+## API: Open Brewery DB
 
-## Getting Started
+API Open Brewery DB adalah sumber terbuka yang menyediakan informasi tentang berbagai tempat pembuatan bir di seluruh dunia. Anda dapat mengakses informasi seperti nama, lokasi, jenis bir yang diproduksi, dan lainnya.
 
-This project is a starting point for a Flutter application.
+### Endpoint
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Base URL:** https://api.openbrewerydb.org/v1/breweries
